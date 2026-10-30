@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tamekazu",
  "yomi": "ためかずきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "戦国時代",
+  "author": "冷泉為和（1486〜1549）",
+  "desc": "駿河の今川氏のもとにも下った冷泉為和の家集。永正14年（1517）以降の、土佐の一条家での会や自家の月次会での詠を年を追って収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1268,6 +1273,6 @@
   "poems": 106,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
