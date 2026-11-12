@@ -22,11 +22,14 @@
    "url": "https://dl.ndl.go.jp/pid/1879517"
   }
  ],
- "status": "未校正",
+ "status": "下校正済み",
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho09-tamekazu-0001",
@@ -1548,7 +1551,8 @@
   "chars": 7595,
   "poems": 106,
   "editions": 1,
-  "updated": "2026-11-04",
-  "updated_at": "2026-11-04T21:08:37+09:00"
+  "updated": "2026-11-06",
+  "updated_at": "2026-11-06T08:22:41+09:00",
+  "yaku": 4
  }
 }
